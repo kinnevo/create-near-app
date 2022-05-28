@@ -1,0 +1,1 @@
+/Users/jorgezavala/Documents/near/near-app/create-near-app/connect_wallet/contract/target/wasm32-unknown-unknown/release/libgreeter.rlib: /Users/jorgezavala/Documents/near/near-app/create-near-app/connect_wallet/contract/src/lib.rs
